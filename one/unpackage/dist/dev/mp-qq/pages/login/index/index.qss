@@ -1,0 +1,67 @@
+
+page.data-v-41115d06{
+	width: 100%;
+	height: 100%;
+}
+.login-container.data-v-41115d06{
+	width: 100%;
+	height: 100%;
+}
+.top-container.data-v-41115d06{
+	text-align: center;
+}
+.icon.data-v-41115d06{
+	padding-top: 80rpx;
+}
+.star-container.data-v-41115d06{
+	width: 170rpx;
+	height: 170rpx;
+	border-radius: 170rpx;
+}
+.title.data-v-41115d06{
+	color: #40B4E5;
+}
+.form-container.data-v-41115d06{
+	padding-top: 80rpx;
+	margin-left: 15%;
+	font-size: 30rpx;
+}
+.input-text.data-v-41115d06,.input-pwd.data-v-41115d06{
+	display: inline-block;
+	height: 100rpx;
+	width: 85%;
+	border-bottom: 1px solid gray;
+}
+.school.data-v-41115d06{
+	margin: 0;
+	padding: 0;
+	color: black;
+	font-size: 35rpx;
+}
+.radio.data-v-41115d06{
+	display: block;
+}
+.secrit.data-v-41115d06{
+	color: #40B2E4;
+	font-size: 30rpx;
+}
+.btn-list.data-v-41115d06{
+	display: inline-block;
+	margin-top: 49rpx;
+}
+.btn-login.data-v-41115d06{
+	display: inline-block;
+	width: 150rpx;
+	height: 70rpx;
+	background-color: #40B4E5;
+	color: white;
+	margin-right: 170rpx;
+}
+.btn-cancel.data-v-41115d06{
+	display: inline-block;
+	width: 150rpx;
+	height: 70rpx;
+	background-color: #CCCCFF;
+	color: #FFFFFF;
+}
+

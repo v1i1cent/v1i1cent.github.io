@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/login/index/index",
+    "pages/index/index",
+    "pages/class/index/index",
+    "pages/my/index/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#00CCFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#555555",
+    "backgroundColor": "#FFFFFF",
+    "selectedColor": "#007AFF",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "./static/images/home.png",
+        "selectedIconPath": "static/images/selected-home.png"
+      },
+      {
+        "text": "课表",
+        "pagePath": "pages/class/index/index",
+        "iconPath": "static/images/timetable.png",
+        "selectedIconPath": "static/images/selectTimetable.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/my/index/index",
+        "iconPath": "static/images/my.png",
+        "selectedIconPath": "static/images/selectmy.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
